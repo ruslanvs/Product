@@ -1,0 +1,1 @@
+Object oriented programming basics educational assignment at Coding Dojo
